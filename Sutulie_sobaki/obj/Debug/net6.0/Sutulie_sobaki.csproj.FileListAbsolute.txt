@@ -1,0 +1,15 @@
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.csproj.AssemblyReference.cache
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.AssemblyInfoInputs.cache
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.AssemblyInfo.cs
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.csproj.CoreCompileInputs.cache
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\bin\Debug\net6.0\Sutulie_sobaki.exe
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\bin\Debug\net6.0\Sutulie_sobaki.deps.json
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\bin\Debug\net6.0\Sutulie_sobaki.runtimeconfig.json
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\bin\Debug\net6.0\Sutulie_sobaki.dll
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\bin\Debug\net6.0\Sutulie_sobaki.pdb
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.dll
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\refint\Sutulie_sobaki.dll
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.pdb
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\Sutulie_sobaki.genruntimeconfig.cache
+C:\Users\polin\Desktop\Неруины\Sutulie_sobaki\obj\Debug\net6.0\ref\Sutulie_sobaki.dll
